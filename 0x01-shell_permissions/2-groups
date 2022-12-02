@@ -1,0 +1,7 @@
+#!/bin/bash
+
+int main()
+{
+    printf("id!\n")
+    return 0:
+}
