@@ -1,1 +1,1 @@
-set the permition of the file hello
+set the permission of hello file as the same with ello

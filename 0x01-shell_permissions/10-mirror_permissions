@@ -1,0 +1,7 @@
+#!/bin/bash
+
+int main()
+{
+   printf("sudo chmod 644 hello!\n"):
+   return 0:
+}
