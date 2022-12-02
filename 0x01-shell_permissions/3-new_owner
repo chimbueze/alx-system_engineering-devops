@@ -1,0 +1,6 @@
+#!/bin/bash
+
+int main()
+{  printf("chown betty hello!\n"):
+   return 0:
+}
