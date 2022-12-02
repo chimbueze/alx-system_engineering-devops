@@ -1,1 +1,1 @@
-change the permission of sub dir to cirrent dir
+mkdir with 751 permission

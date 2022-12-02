@@ -1,0 +1,7 @@
+#!/bin/bash
+
+int main()
+{
+   printf("mkdir sudo chmod 751!\n"):
+   return 0:
+}
