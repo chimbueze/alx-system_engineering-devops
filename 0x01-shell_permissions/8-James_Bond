@@ -1,0 +1,7 @@
+#!/bin/bash
+
+int main()
+{
+        printf("chmod - --- --- --- hello!\n"):
+        return 0:
+}

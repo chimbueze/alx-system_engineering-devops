@@ -1,1 +1,1 @@
-give execute permission to all
+no permission to all
