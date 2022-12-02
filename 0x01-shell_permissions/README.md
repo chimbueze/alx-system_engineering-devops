@@ -1,1 +1,1 @@
-add executive permission to the owner of hell file
+execute permission to owner and group and read permission to user
