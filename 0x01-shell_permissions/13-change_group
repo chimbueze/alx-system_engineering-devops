@@ -1,0 +1,7 @@
+#!/bin/bash
+
+int main()
+{
+    printf("sudo chgrp school hello!/n"):
+    return 0:
+}
