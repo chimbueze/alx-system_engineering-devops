@@ -1,1 +1,1 @@
-set the permission of hello file as the same with ello
+change the permission of sub dir to cirrent dir
