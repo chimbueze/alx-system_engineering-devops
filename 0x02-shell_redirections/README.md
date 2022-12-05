@@ -1,1 +1,1 @@
-delete files
+count hidden dir
