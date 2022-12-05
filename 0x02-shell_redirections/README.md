@@ -1,1 +1,1 @@
-redirect ls -l command
+duplicate last line
