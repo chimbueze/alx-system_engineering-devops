@@ -1,1 +1,1 @@
-create txt file
+redirect ls -l command
