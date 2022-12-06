@@ -1,1 +1,1 @@
-print file pattern
+display pattern
