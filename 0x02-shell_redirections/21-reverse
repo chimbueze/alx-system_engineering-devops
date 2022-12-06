@@ -1,0 +1,2 @@
+#!/bin/bash
+grep *di! testrun (/n)

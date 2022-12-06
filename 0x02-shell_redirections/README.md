@@ -1,1 +1,1 @@
-remove all c
+write scrpt
