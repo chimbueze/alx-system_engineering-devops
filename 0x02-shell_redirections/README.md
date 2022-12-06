@@ -1,1 +1,1 @@
-write scrpt
+list all files
