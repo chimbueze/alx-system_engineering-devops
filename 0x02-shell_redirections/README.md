@@ -1,1 +1,1 @@
-display pattern 2
+display files without bin
