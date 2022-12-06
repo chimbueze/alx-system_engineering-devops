@@ -1,1 +1,1 @@
-alias command
+print hello..
