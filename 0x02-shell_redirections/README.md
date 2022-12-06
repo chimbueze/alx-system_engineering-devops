@@ -1,1 +1,1 @@
-used uniq command
+print file pattern
