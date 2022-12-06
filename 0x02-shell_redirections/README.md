@@ -1,1 +1,1 @@
-count hidden dir
+display newest files
